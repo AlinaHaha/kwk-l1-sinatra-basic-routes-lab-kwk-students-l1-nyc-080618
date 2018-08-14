@@ -15,6 +15,6 @@ get '/home' do
 end
 
 get '/favsong' do
-  'Photograph by Ed Sheeran is ma fav songggg'
+  'Photograph by Ed Sheeran'
 end
 end
